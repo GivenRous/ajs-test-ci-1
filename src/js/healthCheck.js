@@ -1,4 +1,4 @@
-export default function playerStatus({ player }) {
+export default function healthCheck({ player }) {
   if (player.health > 50) {
     return "healthy";
   }
