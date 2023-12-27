@@ -1,0 +1,29 @@
+{
+  "name": "ajs-test-ci-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GivenRous/ajs-test-ci-1.git"
+  },
+  "author": "givenrous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GivenRous/ajs-test-ci-1/issues"
+  },
+  "homepage": "https://github.com/GivenRous/ajs-test-ci-1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.34.0"
+  }
+}
