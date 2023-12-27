@@ -1,2 +1,3 @@
-import './css/style.css';
-import './js/healthCheck';
+import './js/app';
+
+// TODO: write your code in app.js
